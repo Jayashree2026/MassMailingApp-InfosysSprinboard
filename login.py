@@ -109,7 +109,7 @@ def show_login_page():
 
     col1,col2 = st.columns([1,1])
     with col1:
-        st.image("./massmailit.png")
+        st.image("./Massmailit.png")
 
 
     with col2:
