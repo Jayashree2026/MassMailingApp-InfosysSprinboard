@@ -53,7 +53,7 @@ def app():
         image, title = st.columns([1, 3])
 
         with image:
-            st.image("./massmailit.png")
+            st.image("./Massmailit.png")
 
         with title:
             st.title("Ready to amplify your email campaigns?")
