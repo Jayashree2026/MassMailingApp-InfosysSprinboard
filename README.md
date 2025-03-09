@@ -17,4 +17,3 @@ The Mass Mailing Application is a robust platform designed to revolutionize bulk
 **Outcomes**:
 The application simplifies bulk email management and enhances the efficiency of email campaigns, making it an indispensable tool for businesses and organizations. By delivering streamlined workflows and actionable insights, it empowers users to achieve higher engagement rates and improve communication effectiveness.
 
-# MassMailingApp-InfosysSprinboard
